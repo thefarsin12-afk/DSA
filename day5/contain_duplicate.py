@@ -10,7 +10,7 @@ Explanation:
 The element 1 occurs at the indices 0 and 3.
 """
 
-nums = [1,2,3]
+nums = [1,2,3,2]
 
 lst = []
 
